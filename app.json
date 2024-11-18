@@ -7,7 +7,7 @@
 
   "env": {
       "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "ANJU-MD=zBlmGRKb#kW14jEVCscUcPTy8yWmBwA9zQC-b14gWJ4d1NtJH1k8",
       "required": true
     }   
 },
