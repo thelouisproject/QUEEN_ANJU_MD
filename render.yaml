@@ -15,4 +15,4 @@ services:
     #startCommand: npm start
     envVars:
       - key: SESSION_ID
-        value: "ANJU-MD=XdNzhIIR#9yLuGFckaztc815suy5NgmBpB1bAnzhb8oDodTPzPX0"
+        value: "ANJU-MD=qMUjlATT#8g80rbd9zUuOFGrneOEqJwvXcSQNBo7zlv1itza9YjQ"
